@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/CLionProjects/TowerHanoi/Src/Tower.h
+vector
+-
+string
+-
+
+/home/user/CLionProjects/TowerHanoi/Src/main.cpp
+iostream
+-
+vector
+-
+cstring
+-
+limits
+-
+Tower.h
+/home/user/CLionProjects/TowerHanoi/Src/Tower.h
+

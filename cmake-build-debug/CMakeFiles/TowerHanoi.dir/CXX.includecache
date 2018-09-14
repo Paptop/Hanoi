@@ -7,7 +7,7 @@
 #IncludeRegexTransform: 
 
 /home/user/CLionProjects/TowerHanoi/Src/Tower.h
-vector
+list
 -
 string
 -
